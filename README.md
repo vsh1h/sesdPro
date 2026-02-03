@@ -62,6 +62,7 @@ Create a `.env` file in the root directory:
 
 ```env
 PORT=5550
+NODE_ENV=development
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
